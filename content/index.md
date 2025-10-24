@@ -1,8 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 ---
+This is the home page of Don's TTRPG notes. Here you can find notes for some of the campaigns I have run. Feel free to look around. This page is constantly being updated and a lot of things are work in progress.
 
-this is a test
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Shadow - line
+A deadlock inspired mystery adventure campaign. 
