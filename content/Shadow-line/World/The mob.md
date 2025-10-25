@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: The mob
 draft: false
 tags:
   -

@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: The voodoo syndicate
 draft: false
 tags:
   -
